@@ -35,7 +35,6 @@ gulp.task('scripts', function () {
         "src/js/so-form-validator/validator.js",
         "src/js/so-form-validator/display/error-renderer.js",
         "src/js/so-form-validator/so-form-validator.js",
-        "src/js/main.js"
     ])
         .pipe(sourcemaps.init())
         .pipe(concat('so-form-validator.js'))
