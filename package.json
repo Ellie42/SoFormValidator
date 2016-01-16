@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "gulp-ruby-sass": "latest",
+    "gulp-autoprefixer": "latest",
+    "gulp-cssnano": "latest",
+    "gulp-jshint": "latest",
+    "gulp-concat": "latest",
+    "gulp-uglify": "latest",
+    "gulp-livereload": "latest",
+    "gulp-notify": "latest",
+    "del":"latest",
+    "notify-send":"latest",
+    "gulp-sourcemaps":"latest"
+  }
+}
